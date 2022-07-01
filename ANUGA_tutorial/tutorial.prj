@@ -1,0 +1,9 @@
+Projection    UTM
+Zone          11
+Datum         NAD27
+Zunits		10.0
+Units		METERS
+Spheroid      CLARKE1866
+Xshift        500000
+Yshift        10000000
+Parameters    
